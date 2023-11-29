@@ -5,7 +5,7 @@ while i<5:
   print(rose_thrown)
   i+=1
 
-print("The roses were thrown",i,"times.")
+print("The roses were thrown",i,"times...LOSER")
 
 cat="(^00^)---~~"
 
@@ -15,3 +15,5 @@ while i<5:
   i+=1
 
 print("There are",i,"cats running after you.")
+
+#HHIIIIIIII
